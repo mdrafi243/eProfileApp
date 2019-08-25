@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Through Command prompt or IDE's integrated terminal, navigate to the project directory, and execute 
+### `npm install`
+Installs the required dependencies (You shall have nodejs installed).
+
 In the project directory, you can run:
 
 ### `npm start`
