@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    /* background-color:rgb(48,48,48); */
+    margin:0;
+}
+
+.App {
+    text-align: center;
+  }
+
+  .company-logo{
+      width:50px;
+  }
+
+  .order-logo{
+      width:62px;
+  }
+
+.order{
+      border-bottom: 1px solid gray;
+      width:100%;
+      margin: 2px;
+      vertical-align: center;
+  }
+
+.order-col{
+    align-self: center;
+  }
